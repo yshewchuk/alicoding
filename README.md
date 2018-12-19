@@ -1,4 +1,4 @@
 alicoding
 =========
 
-My web blog
+My web blog that's really really interesting
